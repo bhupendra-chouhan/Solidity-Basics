@@ -26,6 +26,7 @@
 6. Enums
 
 7. Structs
+    - constructors
 
 8. Visibility
     - public, private, internal, external
