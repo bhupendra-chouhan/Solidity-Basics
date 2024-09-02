@@ -6,8 +6,7 @@
 - Open-Campus Network Details: https://open-campus-docs.vercel.app/getting-started
 - Open-Campus Faucet: https://drpc.org/faucet/open-campus-codex
 - Open-Campus Explorer: https://opencampus-codex.blockscout.com/
-- HardHat Documentation: https://hardhat.org/hardhat-runner/docs/getting-started#overview
-
+- Deploy smart-contract using HardHat (Video Tutorial and Documentation included): https://github.com/bhupendra-chouhan/hardhat-tutorial
 ---
 
 ## Content Covered:
