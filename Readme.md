@@ -3,10 +3,9 @@
 ---
 ## Documentations:
 
-- Core Network Details: https://docs.coredao.org/docs/Dev-Guide/network-config#latest-core-blockchain-testnet-1114-0x45a 
-- Core Faucet: https://scan.test2.btcs.network/faucet
-- Core Block Explorer https://scan.test2.btcs.network/
-
+- Open-Campus Network Details: https://open-campus-docs.vercel.app/getting-started
+ - Open-Campus Faucet: https://drpc.org/faucet/open-campus-codex
+ - Open-Campus Explorer: https://opencampus-codex.blockscout.com/
 - Deploy smart-contract using HardHat (Video Tutorial and Documentation included): https://github.com/bhupendra-chouhan/hardhat-tutorial
 ---
 
